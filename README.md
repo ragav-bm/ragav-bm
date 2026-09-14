@@ -12,9 +12,6 @@
   <a href="mailto:bmragav242@gmail.com"><img src="https://img.shields.io/badge/Email-bmragav242%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-> [!NOTE]
-> 🎓 **Seeking a 6-month Master's Thesis position** in Multi-Modal Deep Learning, VLA Models, or Embodied AI (available from October 2026).
-
 ---
 
 ### 🚀 About Me
