@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ragav-bm"><img src="https://img.shields.io/github/followers/ragav-bm?label=Followers&style=flat-square&color=blue" alt="GitHub followers" /></a>
   <a href="https://linkedin.com/in/ragavendra-b-m-a37865176"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:bmragav242@gmail.com"><img src="https://img.shields.io/badge/Email-bmragav242%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -25,7 +24,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-- **Programming:** Python, C++, Bash, SQL
+- **Programming:** Python, C++
 - **ML Frameworks:** PyTorch, TensorFlow, scikit-learn, ONNX, Torchvision
 - **Robotics & Simulation:** ROS / ROS2, NVIDIA Isaac Lab, Gazebo, PX4
 - **Methods & Architectures:** Vision-Language-Action (VLA), Reinforcement Learning (SAC, PPO), Graph Neural Networks (GNN), Transformers (ViT, CrossViT), Diffusion (DDPM), Energy-Based Models (EBM), LLMs
