@@ -47,7 +47,7 @@
 </p>
 <hr />
 <p>
-<b><a href="https://github.com/ragav-bm/Mapless_RL_Navigation">Mapless_RL_Navigation</a></b> — End-to-end mapless navigation system for mobile robots using Deep Reinforcement Learning (SAC-LSTM) in continuous, partially observable environments.<br />
+<b><a href="https://github.com/ragav-bm/Mapless_RL_Navigation">recurrent-rl-navigation</a></b> — End-to-end mapless navigation system for mobile robots using Deep Reinforcement Learning (SAC-LSTM) in continuous, partially observable environments.<br />
 <code>PyTorch</code> <code>RL</code> <code>Robotics</code>
 </p>
 </td>
