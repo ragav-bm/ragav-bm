@@ -113,4 +113,3 @@ Minimal GPT decoder built from scratch assembled from NeetCode ML problem sets.<
 
 - **LinkedIn:** [ragavendra-b-m-a37865176](https://linkedin.com/in/ragavendra-b-m-a37865176)
 - **Email:** [bmragav242@gmail.com](mailto:bmragav242@gmail.com)
-- **GitHub:** [@ragav-bm](https://github.com/ragav-bm)
