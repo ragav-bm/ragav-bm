@@ -109,15 +109,6 @@ Minimal GPT decoder built from scratch assembled from NeetCode ML problem sets.<
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragav-bm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ragavendra's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragav-bm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 - **LinkedIn:** [ragavendra-b-m-a37865176](https://linkedin.com/in/ragavendra-b-m-a37865176)
