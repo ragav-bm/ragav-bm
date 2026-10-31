@@ -1,7 +1,7 @@
 # Hi there, I'm Ragavendra 👋
 
 <p align="center">
-  <strong>M.Sc. Student in AI & Autonomous Driving</strong> @ <a href="https://www.fau.eu/">FAU Erlangen-Nürnberg</a><br />
+  <strong>M.Sc. Student in Autonomy Technologies </strong> @ <a href="https://www.fau.eu/">FAU Erlangen-Nürnberg</a><br />
   Specializing in <strong>Vision-Language-Action (VLA) Models</strong> · <strong>Deep Reinforcement Learning</strong> · <strong>Robot Manipulation</strong><br />
   📍 Nuremberg, Germany
 </p>
