@@ -41,15 +41,15 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>
-<b><a href="https://github.com/ragav-bm/VisionTransformer-Compression">VisionTransformer-Compression</a></b> — Compressing Vision Transformers for driving scene perception (BDD100K). Distilled CrossViT teacher (28.5M) to compact ViT student, pruned (11.0M → 4.4M params, 1.44× speedup), and profiled accuracy–latency trade-offs with INT8/ONNX.<br />
-<code>PyTorch</code> <code>BDD100K</code> <code>Model Compression</code>
-</p>
-<hr />
-<p>
-<b><a href="https://github.com/ragav-bm/Mapless_RL_Navigation">recurrent-rl-navigation</a></b> — End-to-end mapless navigation system for mobile robots using Deep Reinforcement Learning (SAC-LSTM) in continuous, partially observable environments.<br />
-<code>PyTorch</code> <code>RL</code> <code>Robotics</code>
-</p>
+  <p>
+    <b><a href="https://github.com/ragav-bm/Mapless_RL_Navigation">recurrent-rl-navigation</a></b> — End-to-end mapless navigation system for mobile robots using Deep Reinforcement Learning (SAC-LSTM) in continuous, partially observable environments.<br />
+    <code>PyTorch</code> <code>RL</code> <code>Robotics</code>
+  </p>
+  <hr />
+  <p>
+    <b><a href="https://github.com/ragav-bm/VisionTransformer-Compression">VisionTransformer-Compression</a></b> — Compressing Vision Transformers for driving scene perception (BDD100K). Distilled CrossViT teacher (28.5M) to compact ViT student, pruned (11.0M → 4.4M params, 1.44× speedup), and profiled accuracy–latency trade-offs with INT8/ONNX.<br />
+    <code>PyTorch</code> <code>BDD100K</code> <code>Model Compression</code>
+  </p>
 </td>
 </tr>
 <tr>
